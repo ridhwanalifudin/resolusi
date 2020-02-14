@@ -1,5 +1,5 @@
 Rencana
 
-- Javascript 
+- Javascript : ES6, Framework 
 - PHP Framework
 - JS Framework
