@@ -1,6 +1,7 @@
 Rencana
 
 - Javascript : ES6, Framework 
-- PHP Framework
-- JS Framework
+- PHP Framework : Laravel
+- JS Framework : Vue
 - Struktur Data Dasar
+- Python
